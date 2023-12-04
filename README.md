@@ -9,23 +9,19 @@ Here are a couple of projects I've developed:
 
 ## Projects
 
-1. [**McqMate.com**](https://mcqmate.com)
-   - A comprehensive MCQs portal designed for students, with an 2 million monthly page views.
+1. [**McqMate.com**](https://mcqmate.com): A comprehensive MCQs portal designed for students, with an 2 million monthly page views.
 
-2. [**TailwindFlex.com**](https://tailwindflex.com)
-   - Community build tailwind component library. It receives 120k monthly page views.
+2. [**TailwindFlex.com**](https://tailwindflex.com): Community build tailwind component library. It receives 120k monthly page views.
   
-3. [**OnlineMiniTools.com**](https://onlineminitools.com/)
-   - An extensive collection of online mini tools, garnering 1,000 monthly page views.
+3. [**OnlineMiniTools.com**](https://onlineminitools.com): An extensive collection of online mini tools, garnering 1,000 monthly page views.
+
+4. [**EliteAi.tools**](https://eliteai.tools): Collection of tools build with AI.
   
-4. [**StudyDocs.org**](https://studydocs.org/)
-   - Document sharing website for student.
+5. [**StudyDocs.org**](https://studydocs.org/): Document sharing website for student.
 
-5. [**PHP MVC Framework**](https://github.com/prajwal89/php-mvc-framework)
-   - I have build this to improve my understanding of MVC architecture.
+6. [**PHP MVC Framework**](https://github.com/prajwal89/php-mvc-framework): I have build this to improve my understanding of MVC architecture.
 
-6. [**Laravel Share To**](https://github.com/prajwal89/laravel-share-to)
-   - A laravel package for generating social share buttons.
+7. [**Laravel Share To**](https://github.com/prajwal89/laravel-share-to): A laravel package for generating social share buttons.
 
 In addition to these highlighted projects, I've worked on various other web applications. My goal is to continue building innovative solutions that I'm passionate about.
 
@@ -46,7 +42,5 @@ In addition to these highlighted projects, I've worked on various other web appl
 - **Url Longner**: Generate intentionally long and complex URLs, perfect for amusing friends or as a playful prank..
 
 - **Festival Wisher**: Create personalized wishing cards for festive occasions.
-
-
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=prajwal89)
