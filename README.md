@@ -1,9 +1,9 @@
 # Hello, I'm Prajwal Hallale
 
-I have a passion for creating web applications. I enjoy building things that i love.
+I have a passion for creating web applications. I enjoy building things that I love.
 
-My tools are: Laravel, React, MySQL, Tailwind CSS, Livewire and more.
-Other than programming i enjoy space science, anime, music and cricket  
+My tools are Laravel, React, MySQL, Tailwind CSS, Livewire, and more.
+Other than programming I enjoy space science, anime, music, and cricket  
 
 Here are a couple of projects I've developed:
 
@@ -29,17 +29,17 @@ In addition to these highlighted projects, I've worked on various other web appl
 
 - **OnNotes**: Notes-sharing portal that I built for my college. The notes were disorganized in my college, so I created OnNotes to facilitate sharing. The platform had many active users, primarily my friends, during its live period 😄.
 
-- **PUBG Custom Rooms Manager**: Dedicated platform designed to efficiently manage players participating in PUBG's custom rooms.
+- **PUBG Custom Rooms Manager**: A dedicated platform is designed to efficiently manage players participating in PUBG's custom rooms.
 
 - **NoobCodes**: A Chrome extension that provides code snippets directly on search pages based on user queries.
   
-- **Buy Sell Used Books**: As name suggest user can trade old books.
+- **Buy Sell Used Books**: As the name suggests users can trade old books.
   
-- **Tourism Management Website**: My final year project.Tours and Travels Management Portal designed to streamline operations for both tourists and owners.
+- **Tourism Management Website**: My final year project.Tours and Travels Management Portal is designed to streamline operations for tourists and owners.
   
 - **FullformMate**: A website cataloging full forms from various categories.
 
-- **Url Longner**: Generate intentionally long and complex URLs, perfect for amusing friends or as a playful prank..
+- **Url Longner**: Generate intentionally long and complex URLs, perfect for amusing friends or as a playful prank.
 
 - **Festival Wisher**: Create personalized wishing cards for festive occasions.
 
