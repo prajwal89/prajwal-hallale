@@ -13,15 +13,17 @@ Here are a couple of projects I've developed:
 
 2. [**TailwindFlex.com**](https://tailwindflex.com): Community build Tailwind CSS component library. It receives 200k monthly page views.
    
-4. [**BootstrapExamples.com**](https://bootstrapexamples.com): Community build Bootstrap CSS component library.
+3. [**BootstrapExamples.com**](https://bootstrapexamples.com): Community build Bootstrap CSS component library.
 
-5. [**OnlineMiniTools.com**](https://onlineminitools.com): An extensive collection of online mini tools, garnering 50k monthly page views.
+4. [**OnlineMiniTools.com**](https://onlineminitools.com): An extensive collection of online mini tools, garnering 50k monthly page views.
 
-6. [**EliteAi.tools**](https://eliteai.tools): Collection of tools build with AI.
+5. [**EliteAi.tools**](https://eliteai.tools): Collection of tools build with AI.
   
-7. [**StudyDocs.org**](https://studydocs.org/): Document sharing website for student.
+6. [**StudyDocs.org**](https://studydocs.org/): Document sharing website for student.
 
-8. [**PHP MVC Framework**](https://github.com/prajwal89/php-mvc-framework): I have build this to improve my understanding of MVC architecture.
+7. [**PHP MVC Framework**](https://github.com/prajwal89/php-mvc-framework): I have build this to improve my understanding of MVC architecture.
+   
+8. [**Lara Click Insights**](https://github.com/prajwal89/lara-click-insights): Record impressions and clicks of any model.
 
 9. [**Laravel Share To**](https://github.com/prajwal89/laravel-share-to): A laravel package for generating social share buttons.
 
