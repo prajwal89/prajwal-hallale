@@ -11,17 +11,19 @@ Here are a couple of projects I've developed:
 
 1. [**McqMate.com**](https://mcqmate.com): A comprehensive MCQs portal designed for students, with an 2 million monthly page views.
 
-2. [**TailwindFlex.com**](https://tailwindflex.com): Community build tailwind component library. It receives 120k monthly page views.
+2. [**TailwindFlex.com**](https://tailwindflex.com): Community build Tailwind CSS component library. It receives 200k monthly page views.
+3. 
+4. [**BootstrapExamples.com**](https://bootstrapexamples.com): Community build Bootstrap CSS component library.
+
+5. [**OnlineMiniTools.com**](https://onlineminitools.com): An extensive collection of online mini tools, garnering 50k monthly page views.
+
+6. [**EliteAi.tools**](https://eliteai.tools): Collection of tools build with AI.
   
-3. [**OnlineMiniTools.com**](https://onlineminitools.com): An extensive collection of online mini tools, garnering 1,000 monthly page views.
+7. [**StudyDocs.org**](https://studydocs.org/): Document sharing website for student.
 
-4. [**EliteAi.tools**](https://eliteai.tools): Collection of tools build with AI.
-  
-5. [**StudyDocs.org**](https://studydocs.org/): Document sharing website for student.
+8. [**PHP MVC Framework**](https://github.com/prajwal89/php-mvc-framework): I have build this to improve my understanding of MVC architecture.
 
-6. [**PHP MVC Framework**](https://github.com/prajwal89/php-mvc-framework): I have build this to improve my understanding of MVC architecture.
-
-7. [**Laravel Share To**](https://github.com/prajwal89/laravel-share-to): A laravel package for generating social share buttons.
+9. [**Laravel Share To**](https://github.com/prajwal89/laravel-share-to): A laravel package for generating social share buttons.
 
 In addition to these highlighted projects, I've worked on various other web applications. My goal is to continue building innovative solutions that I'm passionate about.
 
